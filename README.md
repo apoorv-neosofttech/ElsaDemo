@@ -11,3 +11,6 @@ Steps to run and test workflows
 	For SMTP: http://localhost:3000/
   
 	For Elsa Dashboard: http://localhost:14000/
+
+
+Reference: https://sipkeschoorstra.medium.com/building-workflow-driven-net-applications-with-elsa-2-part-1-44e08a9ba94b
